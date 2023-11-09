@@ -1,3 +1,4 @@
+![Cuplikan layar 2023-11-09 090244](https://github.com/Fathurrochman20/Fibonacci/assets/135719593/10e4fcec-b549-4b52-bd2d-fb2646318d20)
 # **Program Fibonacci**
 ## **MainActivity.java**
 ```java
@@ -231,4 +232,3 @@ public class MainActivity extends AppCompatActivity {
 <hr>
 
 ## **Desain Application**
-<img width="243" alt="desain" src="https://github.com/mullf/AndroidStd-Fibonacci/assets/115521049/a6458dc2-ebdb-4087-b165-829c3c708928">
